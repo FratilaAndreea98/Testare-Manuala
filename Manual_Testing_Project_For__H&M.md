@@ -116,13 +116,15 @@ Test Control:<br>
 <li>Reallocates testing resources to areas requiring increased focus.
 
 
-![image](https://github.com/user-attachments/assets/dfa1b034-3522-490f-8367-5f63f5e0ff23)
+![image](https://github.com/user-attachments/assets/02e6cc63-5d96-4be4-b541-7d92e511f2c0)
+
 
 <h3> 1.3 Test Analysis </h3>
 The testing process will be executed based on the application requirements. 
 
 The following test conditions were found: <br>
-![image](https://github.com/user-attachments/assets/1f930728-5d27-4f4d-b19a-f73b8d09555b)
+![image](https://github.com/user-attachments/assets/3a8ff484-e9af-48a9-b38f-3306afd3297d)
+
 
 
 
@@ -144,12 +146,12 @@ Test cases are executed on the created test Cycle summary: User Authentication
 Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/jira-bug.pdf)
 
 The following is a summary of the bugs that have been found
-![image](https://github.com/user-attachments/assets/e24cf4f7-8441-416a-ace7-0a025562e23e)
+![image](https://github.com/user-attachments/assets/05504845-5006-4091-959f-5b0143f2d1e6)
 
 
-<li>ST3EM-28 Priority High, Severity Medium
-<li>ST3EM-21 Priority High, Severity High
-<li>ST3EM-15 Priority High, Severity High
+<li>FAS-26 Priority Medium, Severity High
+<li>FAS-25 Priority Medium, Severity High
+
 
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
@@ -159,16 +161,18 @@ Having fulfilled all stipulated exit criteria, the testing team recommends the f
 
 The traceability matrix was generated and can be found here: 
 
-![image](https://github.com/user-attachments/assets/35f957f6-1dd4-47f1-8ca0-70aa832da23b)
+![image](https://github.com/user-attachments/assets/a8a39786-d87a-456d-ad81-80477fb21b51)
+
 
 
 Test execution chart was generated and can be found below. 
 
-![image](https://github.com/user-attachments/assets/9b986b11-4212-49e3-9d12-72fb321a29af)
+![image](https://github.com/user-attachments/assets/8439cfd4-1134-4513-8674-42f219ce4732)
 
 
-The final report shows that a number 12 tests have failed of a total of 3.
 
-A number of 3 total bugs were found, from which the priority is: 2 are high and 1 are medium.
+The final report shows that a number 10 tests have failed of a total of 2.
 
-Software testing incomplete: defects identified in stories 1 and 3. 75% requirement coverage achieved, but minor bugs require fixing before launch. Recommend additional testing for remaining requirements (25%) and post-launch monitoring for continued stability.
+A number of 2 total bugs were found, from which the priority is: 2 are high and 1 are medium.
+
+Software testing incomplete: defects identified in stories 1 and 2. 80% requirement coverage achieved, but minor bugs require fixing before launch. Recommend additional testing for remaining requirements (20%) and post-launch monitoring for continued stability.
