@@ -131,7 +131,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/FratilaAndreea98/Testare-Manuala/blob/main/Jira-HmTestCases.pdf)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [here](https://github.com/FratilaAndreea98/Testare-Manuala/blob/main/Jira-HmTestCases.pdf).
 
 <h3>1.5 Test Implementation</h3>
 
@@ -143,7 +143,7 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: User Authentication
 
-Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/FratilaAndreea98/Testare-Manuala/blob/main/Jira-HmBugs.pdf)
+Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/FratilaAndreea98/Testare-Manuala/blob/main/Jira-HmBugs.pdf).
 
 The following is a summary of the bugs that have been found
 ![image](https://github.com/user-attachments/assets/05504845-5006-4091-959f-5b0143f2d1e6)
@@ -173,6 +173,6 @@ Test execution chart was generated and can be found below.
 
 The final report shows that a number 10 tests have failed of a total of 2.
 
-A number of 2 total bugs were found, from which the priority is: 2 are high and 1 are medium.
+A number of 2 total bugs were found, both of them have medium priority.
 
 Software testing incomplete: defects identified in stories 1 and 2. 80% requirement coverage achieved, but minor bugs require fixing before launch. Recommend additional testing for remaining requirements (20%) and post-launch monitoring for continued stability.
