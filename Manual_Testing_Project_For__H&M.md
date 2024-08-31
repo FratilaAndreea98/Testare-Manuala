@@ -1,4 +1,4 @@
-<h1>Testing Project for Media Galaxy</h1>
+<h1>Testing Project for H&M</h1>
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
@@ -8,7 +8,7 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The stories attached [here](https://github.com/Eusebiiu/Testare-Manuala/blob/main/stories-jira.doc) was created in Jira and describes the functional specifications of the "User atuthentication and registration" module, for which the final project is performed upon.
+The stories attached [here](https://github.com/FratilaAndreea98/Testare-Manuala/blob/main/Jira-HmStories.pdf) was created in Jira and describes the functional specifications of the "User atuthentication and registration" module, for which the final project is performed upon.
 
 You can find a example of one of the stories that were created below: 
 
@@ -18,7 +18,8 @@ You can find a example of one of the stories that were created below:
 <h3>Realease</h3>
 Here you can find the release that was created for this project:
 
-![image](https://github.com/user-attachments/assets/ccac7641-cca2-44b9-a57b-ac44d923a91a)
+![image](https://github.com/user-attachments/assets/b67ba450-31ef-46de-87a8-1808699d273c)
+
 
 
 <h2>Testing process</h2>
