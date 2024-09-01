@@ -28,7 +28,7 @@ The test process was performed based on the standard test process as described b
 
 <h3>1.1 Test planning</h3>
 
-The Test Plan is designed to describe all details of testing for User authentication module for Media Galaxy e-commerce app.
+The Test Plan is designed to describe all details of testing for User authentication module for H&M e-commerce app.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the project risks associated with the plan. 
 
