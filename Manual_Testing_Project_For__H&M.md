@@ -8,7 +8,7 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The stories attached [here](https://github.com/FratilaAndreea98/Testare-Manuala/blob/main/Jira-HmStories.pdf) was created in Jira and describes the functional specifications of the "User atuthentication and registration" module, for which the final project is performed upon.
+The stories attached [here](https://github.com/FratilaAndreea98/Testare-Manuala/blob/main/Jira-HmStories.pdf) were created in Jira and describes the functional specifications of the "User atuthentication and registration" module, for which the final project is performed upon.
 
 You can find a example of one of the stories that were created below: 
 
@@ -16,7 +16,7 @@ You can find a example of one of the stories that were created below:
 
 
 <h3>Realease</h3>
-Here you can find the release that was created for this project:
+The release created for this project can be found here:
 
 ![image](https://github.com/user-attachments/assets/b67ba450-31ef-46de-87a8-1808699d273c)
 
@@ -63,7 +63,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h5> Tests in scope: </h5>
 
-In order to fullfill the testing objectives we are going to focus on the Register Module(and Log In Module) which has been places on the scope and has been targeted for improvement over the next 3 months.
+To meet testing objectives, we'll focus on the Register Module (and Login Module), which has been prioritized for improvement over the next three months.
 
 From the point of view the testing types and tehniques we are going to use are mostly black box testing with the following test design tehniques:
 <li>Boundary Value Analysis
@@ -96,7 +96,7 @@ Performance and security testing will not be performed during this session of te
 
 <h4>1.1.6 Evaluating entry criteria</h4>
 
-The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
+The defined entry criteria from the Test Planning phase have been met, allowing the testing process to proceed.
 
 <h3>1.2 Test Monitoring and Control</h3>
 
