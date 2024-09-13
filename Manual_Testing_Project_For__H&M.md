@@ -163,6 +163,8 @@ The traceability matrix was generated and can be found here:
 
 ![image](https://github.com/user-attachments/assets/a8a39786-d87a-456d-ad81-80477fb21b51)
 
+The traceability matrix shows that: For the first user story, only one test was executed, and a defect was reported, preventing further testing. For the second user story, 9 tests were executed, of which 8 were successful and 1 had a defect.
+
 
 
 Test execution chart was generated and can be found below. 
