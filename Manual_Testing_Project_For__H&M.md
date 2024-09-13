@@ -65,7 +65,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 To meet testing objectives, we'll focus on the Register Module (and Login Module), which has been prioritized for improvement over the next three months.
 
-From the point of view the testing types and tehniques we are going to use are mostly black box testing with the following test design tehniques:
+From the point of view, the testing types and techniques we are going to use are mostly black-box testing with the following test design techniques:
 <li>Boundary Value Analysis
 <li>Equivalence Partiotioning
 <li>Decision table
