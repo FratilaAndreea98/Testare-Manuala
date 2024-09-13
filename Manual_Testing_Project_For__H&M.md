@@ -177,4 +177,4 @@ The final report shows that a number 10 tests have failed of a total of 2.
 
 A number of 2 total bugs were found, both of them have medium priority.
 
-Software testing incomplete: defects identified in stories 1 and 2. 80% requirement coverage achieved, but minor bugs require fixing before launch. Recommend additional testing for remaining requirements (20%) and post-launch monitoring for continued stability.
+  Testing has been partially completed, with defects identified in stories 1 and 2. Although 80% of the requirements have been covered by tests, there are still significant risks related to the product, especially those associated with email delivery and potential customer loss. While the likelihood of these risks materializing is assessed as low, their impact on the company's reputation and revenue could be catastrophic. Additional testing is recommended to cover the remaining 20% of untested requirements. Post-launch product monitoring is essential.
