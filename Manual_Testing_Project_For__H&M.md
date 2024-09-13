@@ -123,7 +123,7 @@ Test Control:<br>
 The testing process will be executed based on the application requirements. 
 
 The following test conditions were found: <br>
-![image](https://github.com/user-attachments/assets/3a8ff484-e9af-48a9-b38f-3306afd3297d)
+![image](https://github.com/user-attachments/assets/9be3e47e-95ae-4f3f-9583-308b367e71b8)
 
 
 
