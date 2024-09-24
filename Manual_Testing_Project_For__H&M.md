@@ -184,6 +184,6 @@ Test execution chart was generated and can be found below.
 
 The final report shows that a number 2 tests have failed of a total of 10.
 
-A number of 5 total bugs were found, both of them have medium priority.
+A number of 5 total bugs were found, all of them have medium priority.
 
   Testing has been partially completed, with defects identified in stories 1 and 2. Although 80% of the requirements have been covered by tests, there are still significant risks related to the product, especially those associated with email delivery and potential customer loss. While the likelihood of these risks materializing is assessed as medium, their impact on the company's reputation and revenue could be catastrophic. Additional testing is recommended to cover the remaining 20% of untested requirements. Post-launch product monitoring is essential.
