@@ -152,8 +152,11 @@ The following is a summary of the bugs that have been found
 
 
 
-<li>FAS-26 Priority Medium, Severity High
 <li>FAS-25 Priority Medium, Severity High
+<li>FAS-30 Priority Medium, Severity High
+<li>FAS-31 Priority Medium, Severity High
+<li>FAS-33 Priority Medium, Severity High
+<li>FAS-35 Priority Medium, Severity High
 
 
 
