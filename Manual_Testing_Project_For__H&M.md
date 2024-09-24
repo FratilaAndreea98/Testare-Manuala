@@ -18,7 +18,8 @@ You can find a example of one of the stories that were created below:
 <h3>Realease</h3>
 The release created for this project can be found here:
 
-![image](https://github.com/user-attachments/assets/b67ba450-31ef-46de-87a8-1808699d273c)
+![image](https://github.com/user-attachments/assets/e5f49351-20b3-4062-9c4c-f9fa711d3278)
+
 
 
 
