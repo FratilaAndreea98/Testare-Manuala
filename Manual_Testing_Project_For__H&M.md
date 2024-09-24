@@ -144,7 +144,7 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: User Authentication
 
-Bugs have been created based on the failed tests. The complete bug reports can be found [here](https://github.com/FratilaAndreea98/Testare-Manuala/blob/main/Jira-HmBugs.pdf).
+Bugs have been created based on the failed tests. The complete bug reports can be found [here](Hm-jira-bugs.pdf).
 
 The following is a summary of the bugs that have been found
 ![image](https://github.com/user-attachments/assets/05504845-5006-4091-959f-5b0143f2d1e6)
