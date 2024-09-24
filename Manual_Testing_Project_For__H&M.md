@@ -118,7 +118,8 @@ Test Control:<br>
 <li>Reallocates testing resources to areas requiring increased focus.
 
 
-![image](https://github.com/user-attachments/assets/e218a52f-ae0a-410e-9012-081e205f4012)
+![image](https://github.com/user-attachments/assets/e3d072f3-8d53-49d9-a0d4-f3ff9eb1ccad)
+
 
 
 
