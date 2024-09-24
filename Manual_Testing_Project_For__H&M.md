@@ -166,6 +166,8 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 Having fulfilled all stipulated exit criteria, the testing team recommends the feature for deployment.
 
 The traceability matrix was generated and can be found here: 
+![image](https://github.com/user-attachments/assets/4e5ff4f5-9a9b-4c37-8357-04afe749d796)
+
 
 ![image](https://github.com/user-attachments/assets/a8a39786-d87a-456d-ad81-80477fb21b51)
 
