@@ -166,10 +166,9 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 Having fulfilled all stipulated exit criteria, the testing team recommends the feature for deployment.
 
 The traceability matrix was generated and can be found here: 
-![image](https://github.com/user-attachments/assets/4e5ff4f5-9a9b-4c37-8357-04afe749d796)
 
+![image](https://github.com/user-attachments/assets/1edd80b2-ad4e-4632-8c39-41c534c197a2)
 
-![image](https://github.com/user-attachments/assets/a8a39786-d87a-456d-ad81-80477fb21b51)
 
 The traceability matrix shows that: For the first user story, only one test was executed, and a defect was reported, preventing further testing. For the second user story, 9 tests were executed, of which 8 were successful and 1 had a defect.
 
@@ -183,6 +182,6 @@ Test execution chart was generated and can be found below.
 
 The final report shows that a number 2 tests have failed of a total of 10.
 
-A number of 2 total bugs were found, both of them have medium priority.
+A number of 5 total bugs were found, both of them have medium priority.
 
   Testing has been partially completed, with defects identified in stories 1 and 2. Although 80% of the requirements have been covered by tests, there are still significant risks related to the product, especially those associated with email delivery and potential customer loss. While the likelihood of these risks materializing is assessed as medium, their impact on the company's reputation and revenue could be catastrophic. Additional testing is recommended to cover the remaining 20% of untested requirements. Post-launch product monitoring is essential.
