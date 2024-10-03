@@ -88,7 +88,7 @@ Performance and security testing will not be performed during this session of te
 
 
 <h5> Product risks: </h5>
-<li>Bad reputation risk: Users may repeatedly try to sign up with an existing email address, leading to frustration and abandonment of the signup process. This can lead to negative reviews and affect the overall reputation of the site.
+<li>Bad reputation risk: Repeated failures in the registration process, caused by duplicate email addresses, can lead to negative reviews, damaging user trust and the site's reputation.
 <li>Loss of potential customers: Users who prefer to register through their existing social media accounts may abandon the process if they do not find this option. This can lead to the loss of potential customers.
 <li>Security Vulnerability: Accounts with invalid emails can be used for fraudulent or spam activities. Also, password recovery for these accounts becomes impossible.<br>
 <li>Email delivery issues: Account confirmation emails or other communications sent to invalid addresses will never be delivered, leaving users uncertain about their account status<br>
